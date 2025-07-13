@@ -1,8 +1,6 @@
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-Diese Arbeit unterliegt den Bestimmungen einer
-[Creative Commons Namensnennung-Nicht kommerziell-Share Alike 4.0 International-Lizenz][cc-by-nc-sa].
 
+Diese Arbeit unterliegt den Bestimmungen der
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
